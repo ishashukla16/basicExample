@@ -17,6 +17,7 @@ public class Detail {
 		System.out.println(e.RollNo);
 		System.out.println(e2.getName());
 		System.out.println(e2.RollNo);
+		//qwerty
 	    //d.Detail();
 		
 		
